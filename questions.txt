@@ -1,0 +1,15 @@
+What is the default value of an int variable in Java?|0|1|null|undefined|0
+Which of the following is not a Java keyword?|class|int|boolean|include|3
+What does JVM stand for?|Java Virtual Machine|Java Version Machine|Java Vendor Machine|Java Visual Machine|0
+Which method is used to find the length of a string in Java?|size()|length()|getSize()|getLength()|1
+What is the correct way to create an object in Java?|ClassName obj = new ClassName();|ClassName obj();|ClassName obj = ClassName();|ClassName obj = new();|0
+Which access modifier allows visibility within the same package?|private|protected|default|public|2
+What is the size of a float variable in Java?|2 bytes|4 bytes|8 bytes|16 bytes|1
+Which of these is a runtime exception?|NullPointerException|IOException|FileNotFoundException|SQLException|0
+What is the correct syntax for a `for` loop in Java?|for (int i = 0; i <= 10; i++)|for (i = 0; i <= 10; i++)|for int i = 0; i <= 10; i++|for i = 0 to 10;|0
+What is the extension of compiled Java classes?|.java|.class|.exe|.javac|1
+Which operator is used to compare two values in Java?|=|==|===|!=|1
+Which method is called when an object is garbage collected?|finalize()|destroy()|collect()|dispose()|0
+What does the keyword `static` mean in Java?|A variable that can be accessed without an instance|A method that cannot be overridden|A method that is private|A variable that changes frequently|0
+Which of these is not a valid data type in Java?|int|float|double|char[]|3
+Which of the following is the base class of all classes in Java?|Object|Class|Base|Parent|0
